@@ -1,6 +1,6 @@
 <Qucs Schematic 24.2.1>
 <Properties>
-  <View=-1169,-1036,2288,1760,0.683013,0,0>
+  <View=-1351,-1159,2788,1344,0.833697,0,0>
   <Grid=10,10,1>
   <DataSet=timer_2.dat>
   <DataDisplay=timer_2.dpl>
